@@ -1,5 +1,7 @@
 "Sound Design" is a web application developed using React and Vite, designed to serve a company specializing in sound equipment lessons. The application is built from scratch based on a Figma design and incorporates a sleek, modern user interface with a strong focus on user experience. The first deployed version of the application can be accessed here.
-#https://sound-dezign.vercel.app/
+
+Demo:https://sound-dezign.vercel.app/
+
 Key features of "Sound Design" include:
 
     Lessons and Ratings: The application showcases various sound equipment lessons, providing detailed information and ratings for each lesson. Users can easily browse and select lessons of interest.
